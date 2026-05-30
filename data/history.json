@@ -1,11 +1,11 @@
 [
   {
     "date": "2026-05-31",
-    "generated_at": "2026-05-31 01:14:57",
+    "generated_at": "2026-05-31 01:20:25",
     "source_name": "天天基金 / 东方财富基金估值接口",
     "source_home": "https://fund.eastmoney.com/",
-    "success_count": 100,
-    "failed_count": 0,
+    "success_count": 98,
+    "failed_count": 2,
     "funds": [
       {
         "code": "000001",
@@ -76,16 +76,6 @@
         "net_value_date": "2026-05-28",
         "quote_time": "2026-05-29 15:00",
         "source": "https://fundgz.1234567.com.cn/js/000015.js"
-      },
-      {
-        "code": "000017",
-        "name": "财通可持续混合",
-        "net_value": "3.9140",
-        "estimated_value": "3.8209",
-        "change_percent": "-2.38",
-        "net_value_date": "2026-05-28",
-        "quote_time": "2026-05-29 15:00",
-        "source": "https://fundgz.1234567.com.cn/js/000017.js"
       },
       {
         "code": "000020",
@@ -236,16 +226,6 @@
         "net_value_date": "2026-05-28",
         "quote_time": "2026-05-29 15:00",
         "source": "https://fundgz.1234567.com.cn/js/000054.js"
-      },
-      {
-        "code": "000056",
-        "name": "建信消费升级混合",
-        "net_value": "1.8000",
-        "estimated_value": "1.8227",
-        "change_percent": "1.26",
-        "net_value_date": "2026-05-28",
-        "quote_time": "2026-05-29 15:00",
-        "source": "https://fundgz.1234567.com.cn/js/000056.js"
       },
       {
         "code": "000057",
@@ -1008,6 +988,15 @@
         "source": "https://fundgz.1234567.com.cn/js/000219.js"
       }
     ],
-    "errors": []
+    "errors": [
+      {
+        "code": "000017",
+        "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      },
+      {
+        "code": "000056",
+        "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      }
+    ]
   }
 ]
