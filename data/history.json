@@ -1,11 +1,11 @@
 [
   {
     "date": "2026-05-31",
-    "generated_at": "2026-05-31 00:46:55",
+    "generated_at": "2026-05-31 01:01:13",
     "source_name": "天天基金 / 东方财富基金估值接口",
     "source_home": "https://fund.eastmoney.com/",
-    "success_count": 10,
-    "failed_count": 0,
+    "success_count": 7,
+    "failed_count": 3,
     "funds": [
       {
         "code": "000001",
@@ -16,16 +16,6 @@
         "net_value_date": "2026-05-28",
         "quote_time": "2026-05-29 15:00",
         "source": "https://fundgz.1234567.com.cn/js/000001.js"
-      },
-      {
-        "code": "000051",
-        "name": "华夏沪深300ETF联接A",
-        "net_value": "1.8489",
-        "estimated_value": "1.8406",
-        "change_percent": "-0.45",
-        "net_value_date": "2026-05-28",
-        "quote_time": "2026-05-29 15:00",
-        "source": "https://fundgz.1234567.com.cn/js/000051.js"
       },
       {
         "code": "000083",
@@ -86,28 +76,21 @@
         "net_value_date": "2026-05-28",
         "quote_time": "2026-05-29 15:00",
         "source": "https://fundgz.1234567.com.cn/js/320007.js"
+      }
+    ],
+    "errors": [
+      {
+        "code": "000051",
+        "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
       },
       {
         "code": "260108",
-        "name": "景顺长城新兴成长混合A",
-        "net_value": "1.4670",
-        "estimated_value": "1.4986",
-        "change_percent": "2.15",
-        "net_value_date": "2026-05-28",
-        "quote_time": "2026-05-29 15:00",
-        "source": "https://fundgz.1234567.com.cn/js/260108.js"
+        "message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
       },
       {
         "code": "519674",
-        "name": "银河创新成长混合A",
-        "net_value": "13.5422",
-        "estimated_value": "12.8872",
-        "change_percent": "-4.84",
-        "net_value_date": "2026-05-28",
-        "quote_time": "2026-05-29 15:00",
-        "source": "https://fundgz.1234567.com.cn/js/519674.js"
+        "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
       }
-    ],
-    "errors": []
+    ]
   }
 ]
