@@ -1,0 +1,113 @@
+[
+  {
+    "date": "2026-05-31",
+    "generated_at": "2026-05-31 00:35:45",
+    "source_name": "天天基金 / 东方财富基金估值接口",
+    "source_home": "https://fund.eastmoney.com/",
+    "success_count": 10,
+    "failed_count": 0,
+    "funds": [
+      {
+        "code": "000001",
+        "name": "华夏成长混合",
+        "net_value": "1.3560",
+        "estimated_value": "1.3097",
+        "change_percent": "-3.41",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/000001.js"
+      },
+      {
+        "code": "000051",
+        "name": "华夏沪深300ETF联接A",
+        "net_value": "1.8489",
+        "estimated_value": "1.8406",
+        "change_percent": "-0.45",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/000051.js"
+      },
+      {
+        "code": "000083",
+        "name": "汇添富消费行业混合",
+        "net_value": "4.3700",
+        "estimated_value": "4.4497",
+        "change_percent": "1.82",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/000083.js"
+      },
+      {
+        "code": "001186",
+        "name": "富国文体健康股票A",
+        "net_value": "2.6920",
+        "estimated_value": "2.6538",
+        "change_percent": "-1.42",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/001186.js"
+      },
+      {
+        "code": "005827",
+        "name": "易方达蓝筹精选混合",
+        "net_value": "1.5813",
+        "estimated_value": "1.5966",
+        "change_percent": "0.97",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/005827.js"
+      },
+      {
+        "code": "110022",
+        "name": "易方达消费行业股票",
+        "net_value": "2.8570",
+        "estimated_value": "2.9084",
+        "change_percent": "1.80",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/110022.js"
+      },
+      {
+        "code": "161725",
+        "name": "招商中证白酒指数(LOF)A",
+        "net_value": "0.5689",
+        "estimated_value": "0.5882",
+        "change_percent": "3.40",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/161725.js"
+      },
+      {
+        "code": "320007",
+        "name": "诺安成长混合A",
+        "net_value": "2.5110",
+        "estimated_value": "2.3757",
+        "change_percent": "-5.39",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/320007.js"
+      },
+      {
+        "code": "260108",
+        "name": "景顺长城新兴成长混合A",
+        "net_value": "1.4670",
+        "estimated_value": "1.4986",
+        "change_percent": "2.15",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/260108.js"
+      },
+      {
+        "code": "519674",
+        "name": "银河创新成长混合A",
+        "net_value": "13.5422",
+        "estimated_value": "12.8872",
+        "change_percent": "-4.84",
+        "net_value_date": "2026-05-28",
+        "quote_time": "2026-05-29 15:00",
+        "source": "https://fundgz.1234567.com.cn/js/519674.js"
+      }
+    ],
+    "errors": []
+  }
+]
