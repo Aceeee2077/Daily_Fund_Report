@@ -1,6 +1,9 @@
 name: Daily Fund Report
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 08:00 Beijing time, Monday-Friday. GitHub cron uses UTC.
     - cron: "0 0 * * 1-5"
