@@ -11480,5 +11480,1016 @@
         "message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
       }
     ]
+  },
+  {
+    "date": "2026-06-16",
+    "generated_at": "2026-06-16 11:29:28",
+    "source_name": "天天基金 / 东方财富基金估值接口",
+    "source_home": "https://fund.eastmoney.com/",
+    "success_count": 100,
+    "failed_count": 0,
+    "funds": [
+      {
+        "code": "000001",
+        "name": "华夏成长混合",
+        "net_value": "1.3450",
+        "estimated_value": "1.3550",
+        "change_percent": "0.75",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:25",
+        "source": "https://fundgz.1234567.com.cn/js/000001.js"
+      },
+      {
+        "code": "000003",
+        "name": "中海可转债债券A",
+        "net_value": "1.0740",
+        "estimated_value": "1.0792",
+        "change_percent": "0.48",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000003.js"
+      },
+      {
+        "code": "000005",
+        "name": "嘉实增强信用定期债券",
+        "net_value": "1.0245",
+        "estimated_value": "1.0245",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000005.js"
+      },
+      {
+        "code": "000006",
+        "name": "西部利得量化成长混合A",
+        "net_value": "2.9650",
+        "estimated_value": "2.9780",
+        "change_percent": "0.44",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000006.js"
+      },
+      {
+        "code": "000011",
+        "name": "华夏大盘精选混合A",
+        "net_value": "25.2330",
+        "estimated_value": "25.5310",
+        "change_percent": "1.18",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:25",
+        "source": "https://fundgz.1234567.com.cn/js/000011.js"
+      },
+      {
+        "code": "000014",
+        "name": "华夏聚利债券A",
+        "net_value": "2.2389",
+        "estimated_value": "2.2377",
+        "change_percent": "-0.06",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000014.js"
+      },
+      {
+        "code": "000015",
+        "name": "华夏纯债债券A",
+        "net_value": "1.1974",
+        "estimated_value": "1.1974",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000015.js"
+      },
+      {
+        "code": "000017",
+        "name": "财通可持续混合",
+        "net_value": "4.2940",
+        "estimated_value": "4.4008",
+        "change_percent": "2.49",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000017.js"
+      },
+      {
+        "code": "000020",
+        "name": "景顺长城品质投资混合A",
+        "net_value": "5.5930",
+        "estimated_value": "5.6602",
+        "change_percent": "1.20",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000020.js"
+      },
+      {
+        "code": "000021",
+        "name": "华夏优势增长混合",
+        "net_value": "3.9910",
+        "estimated_value": "4.0231",
+        "change_percent": "0.80",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000021.js"
+      },
+      {
+        "code": "000024",
+        "name": "大摩双利增强债券A",
+        "net_value": "1.2529",
+        "estimated_value": "1.2532",
+        "change_percent": "0.02",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000024.js"
+      },
+      {
+        "code": "000028",
+        "name": "华富安鑫债券A",
+        "net_value": "1.1282",
+        "estimated_value": "1.1350",
+        "change_percent": "0.60",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000028.js"
+      },
+      {
+        "code": "000029",
+        "name": "富国宏观策略灵活配置混合A",
+        "net_value": "3.3320",
+        "estimated_value": "3.3636",
+        "change_percent": "0.95",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000029.js"
+      },
+      {
+        "code": "000030",
+        "name": "长城核心优选混合A",
+        "net_value": "1.3136",
+        "estimated_value": "1.3161",
+        "change_percent": "0.19",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000030.js"
+      },
+      {
+        "code": "000031",
+        "name": "华夏复兴混合A",
+        "net_value": "2.8340",
+        "estimated_value": "2.8251",
+        "change_percent": "-0.32",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000031.js"
+      },
+      {
+        "code": "000032",
+        "name": "易方达信用债债券A",
+        "net_value": "1.1278",
+        "estimated_value": "1.1278",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000032.js"
+      },
+      {
+        "code": "000037",
+        "name": "广发景宁债券A",
+        "net_value": "1.2111",
+        "estimated_value": "1.2111",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000037.js"
+      },
+      {
+        "code": "000039",
+        "name": "农银高增长混合",
+        "net_value": "6.8770",
+        "estimated_value": "6.9558",
+        "change_percent": "1.15",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000039.js"
+      },
+      {
+        "code": "000045",
+        "name": "工银产业债债券A",
+        "net_value": "1.6110",
+        "estimated_value": "1.6108",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000045.js"
+      },
+      {
+        "code": "000046",
+        "name": "工银产业债债券B",
+        "net_value": "1.5470",
+        "estimated_value": "1.5469",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000046.js"
+      },
+      {
+        "code": "000047",
+        "name": "华夏双债债券A",
+        "net_value": "2.3342",
+        "estimated_value": "2.3441",
+        "change_percent": "0.43",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000047.js"
+      },
+      {
+        "code": "000053",
+        "name": "鹏华永诚一年定开债券",
+        "net_value": "1.0490",
+        "estimated_value": "1.0490",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000053.js"
+      },
+      {
+        "code": "000054",
+        "name": "鹏华双债增利债券A",
+        "net_value": "1.3638",
+        "estimated_value": "1.3620",
+        "change_percent": "-0.13",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000054.js"
+      },
+      {
+        "code": "000056",
+        "name": "建信消费升级混合",
+        "net_value": "1.7680",
+        "estimated_value": "1.7536",
+        "change_percent": "-0.81",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000056.js"
+      },
+      {
+        "code": "000057",
+        "name": "中银消费主题混合A",
+        "net_value": "1.4986",
+        "estimated_value": "1.5034",
+        "change_percent": "0.32",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000057.js"
+      },
+      {
+        "code": "000058",
+        "name": "国联安安泰灵活配置混合A",
+        "net_value": "1.5890",
+        "estimated_value": "1.5871",
+        "change_percent": "-0.12",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000058.js"
+      },
+      {
+        "code": "000059",
+        "name": "国联安中证医药100A",
+        "net_value": "0.9018",
+        "estimated_value": "0.8878",
+        "change_percent": "-1.55",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000059.js"
+      },
+      {
+        "code": "000061",
+        "name": "华夏盛世混合",
+        "net_value": "2.5180",
+        "estimated_value": "2.5405",
+        "change_percent": "0.89",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000061.js"
+      },
+      {
+        "code": "000063",
+        "name": "长盛电子信息主题混合A",
+        "net_value": "1.9356",
+        "estimated_value": "1.9458",
+        "change_percent": "0.52",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000063.js"
+      },
+      {
+        "code": "000065",
+        "name": "国富焦点驱动混合A",
+        "net_value": "2.2392",
+        "estimated_value": "2.2457",
+        "change_percent": "0.29",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000065.js"
+      },
+      {
+        "code": "000066",
+        "name": "诺安鸿鑫混合A",
+        "net_value": "2.7157",
+        "estimated_value": "2.7510",
+        "change_percent": "1.30",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000066.js"
+      },
+      {
+        "code": "000067",
+        "name": "民生加银转债优选A",
+        "net_value": "0.7834",
+        "estimated_value": "0.7828",
+        "change_percent": "-0.08",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000067.js"
+      },
+      {
+        "code": "000069",
+        "name": "国投瑞银中高等级债券A",
+        "net_value": "1.1637",
+        "estimated_value": "1.1639",
+        "change_percent": "0.02",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000069.js"
+      },
+      {
+        "code": "000072",
+        "name": "华安稳健回报混合A",
+        "net_value": "1.3884",
+        "estimated_value": "1.3893",
+        "change_percent": "0.06",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000072.js"
+      },
+      {
+        "code": "000073",
+        "name": "摩根成长动力混合A",
+        "net_value": "3.4076",
+        "estimated_value": "3.4349",
+        "change_percent": "0.80",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000073.js"
+      },
+      {
+        "code": "000074",
+        "name": "工银信用纯债一年定开债A",
+        "net_value": "1.8830",
+        "estimated_value": "1.8830",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000074.js"
+      },
+      {
+        "code": "000078",
+        "name": "工银信用纯债三个月定开债A",
+        "net_value": "1.6850",
+        "estimated_value": "1.6850",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000078.js"
+      },
+      {
+        "code": "000080",
+        "name": "天治可转债增强债券A",
+        "net_value": "1.4825",
+        "estimated_value": "1.4839",
+        "change_percent": "0.09",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000080.js"
+      },
+      {
+        "code": "000082",
+        "name": "嘉实研究阿尔法股票A",
+        "net_value": "2.4650",
+        "estimated_value": "2.4773",
+        "change_percent": "0.50",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000082.js"
+      },
+      {
+        "code": "000083",
+        "name": "汇添富消费行业混合",
+        "net_value": "4.3050",
+        "estimated_value": "4.2588",
+        "change_percent": "-1.07",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000083.js"
+      },
+      {
+        "code": "000084",
+        "name": "博时安盈债券A",
+        "net_value": "1.2606",
+        "estimated_value": "1.2608",
+        "change_percent": "0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000084.js"
+      },
+      {
+        "code": "000086",
+        "name": "南方稳利1年持有期债券A",
+        "net_value": "1.1845",
+        "estimated_value": "1.1845",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000086.js"
+      },
+      {
+        "code": "000090",
+        "name": "民生加银高等级信用债A",
+        "net_value": "1.1376",
+        "estimated_value": "1.1378",
+        "change_percent": "0.02",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000090.js"
+      },
+      {
+        "code": "000104",
+        "name": "富国丰泰债券A",
+        "net_value": "1.1963",
+        "estimated_value": "1.1963",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000104.js"
+      },
+      {
+        "code": "000105",
+        "name": "建信安心回报债券A",
+        "net_value": "1.0724",
+        "estimated_value": "1.0724",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000105.js"
+      },
+      {
+        "code": "000107",
+        "name": "富国稳健增强债券A/B",
+        "net_value": "1.3450",
+        "estimated_value": "1.3449",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000107.js"
+      },
+      {
+        "code": "000110",
+        "name": "金鹰元安混合A",
+        "net_value": "1.6025",
+        "estimated_value": "1.6058",
+        "change_percent": "0.20",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000110.js"
+      },
+      {
+        "code": "000111",
+        "name": "易方达纯债1年定开债A",
+        "net_value": "1.0260",
+        "estimated_value": "1.0260",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000111.js"
+      },
+      {
+        "code": "000116",
+        "name": "嘉实丰益纯债定期债券A",
+        "net_value": "1.0121",
+        "estimated_value": "1.0121",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000116.js"
+      },
+      {
+        "code": "000117",
+        "name": "广发轮动配置混合",
+        "net_value": "2.2070",
+        "estimated_value": "2.1976",
+        "change_percent": "-0.43",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000117.js"
+      },
+      {
+        "code": "000118",
+        "name": "广发聚鑫债券A",
+        "net_value": "1.5935",
+        "estimated_value": "1.5933",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000118.js"
+      },
+      {
+        "code": "000120",
+        "name": "中银美丽中国混合A",
+        "net_value": "2.8244",
+        "estimated_value": "2.9117",
+        "change_percent": "3.09",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000120.js"
+      },
+      {
+        "code": "000121",
+        "name": "华夏永福混合A",
+        "net_value": "2.8300",
+        "estimated_value": "2.8272",
+        "change_percent": "-0.10",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000121.js"
+      },
+      {
+        "code": "000122",
+        "name": "汇添富实业债债券A",
+        "net_value": "1.6177",
+        "estimated_value": "1.6198",
+        "change_percent": "0.13",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000122.js"
+      },
+      {
+        "code": "000124",
+        "name": "华宝服务优选混合",
+        "net_value": "3.3930",
+        "estimated_value": "3.3578",
+        "change_percent": "-1.04",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000124.js"
+      },
+      {
+        "code": "000126",
+        "name": "招商安润灵活配置混合A",
+        "net_value": "2.5413",
+        "estimated_value": "2.5875",
+        "change_percent": "1.82",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000126.js"
+      },
+      {
+        "code": "000127",
+        "name": "农银行业领先混合",
+        "net_value": "2.9123",
+        "estimated_value": "2.9508",
+        "change_percent": "1.32",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000127.js"
+      },
+      {
+        "code": "000128",
+        "name": "大成景安短融债券A",
+        "net_value": "1.3316",
+        "estimated_value": "1.3319",
+        "change_percent": "0.02",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000128.js"
+      },
+      {
+        "code": "000129",
+        "name": "大成景安短融债券B",
+        "net_value": "1.3821",
+        "estimated_value": "1.3824",
+        "change_percent": "0.02",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000129.js"
+      },
+      {
+        "code": "000130",
+        "name": "大成景兴信用债债券A",
+        "net_value": "1.6848",
+        "estimated_value": "1.6849",
+        "change_percent": "0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000130.js"
+      },
+      {
+        "code": "000134",
+        "name": "中信保诚嘉鸿债券A",
+        "net_value": "1.0180",
+        "estimated_value": "1.0180",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000134.js"
+      },
+      {
+        "code": "000136",
+        "name": "民生加银策略精选混合A",
+        "net_value": "5.2487",
+        "estimated_value": "5.3117",
+        "change_percent": "1.20",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000136.js"
+      },
+      {
+        "code": "000137",
+        "name": "民生加银岁岁增利债券A",
+        "net_value": "1.1294",
+        "estimated_value": "1.1294",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000137.js"
+      },
+      {
+        "code": "000139",
+        "name": "富国国有企业债债券A/B",
+        "net_value": "1.0036",
+        "estimated_value": "1.0036",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000139.js"
+      },
+      {
+        "code": "000142",
+        "name": "融通增强收益债券A",
+        "net_value": "1.2251",
+        "estimated_value": "1.2246",
+        "change_percent": "-0.04",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000142.js"
+      },
+      {
+        "code": "000143",
+        "name": "鹏华双债加利债券A",
+        "net_value": "2.2394",
+        "estimated_value": "2.2486",
+        "change_percent": "0.41",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000143.js"
+      },
+      {
+        "code": "000147",
+        "name": "易方达高等级信用债债券A",
+        "net_value": "1.2442",
+        "estimated_value": "1.2442",
+        "change_percent": "0.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:26",
+        "source": "https://fundgz.1234567.com.cn/js/000147.js"
+      },
+      {
+        "code": "000149",
+        "name": "华安双债添利债券A",
+        "net_value": "1.3938",
+        "estimated_value": "1.3940",
+        "change_percent": "0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000149.js"
+      },
+      {
+        "code": "000152",
+        "name": "大成景旭纯债债券A",
+        "net_value": "1.1155",
+        "estimated_value": "1.1158",
+        "change_percent": "0.03",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000152.js"
+      },
+      {
+        "code": "000165",
+        "name": "国投瑞银策略精选混合",
+        "net_value": "2.2707",
+        "estimated_value": "2.2822",
+        "change_percent": "0.51",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000165.js"
+      },
+      {
+        "code": "000166",
+        "name": "中海信息产业混合A",
+        "net_value": "2.6164",
+        "estimated_value": "2.6686",
+        "change_percent": "2.00",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000166.js"
+      },
+      {
+        "code": "000167",
+        "name": "广发聚优灵活配置混合A",
+        "net_value": "2.9110",
+        "estimated_value": "2.9346",
+        "change_percent": "0.81",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000167.js"
+      },
+      {
+        "code": "000171",
+        "name": "易方达裕丰回报债券A",
+        "net_value": "2.1120",
+        "estimated_value": "2.1157",
+        "change_percent": "0.17",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000171.js"
+      },
+      {
+        "code": "000172",
+        "name": "华泰柏瑞量化增强混合A",
+        "net_value": "1.8580",
+        "estimated_value": "1.8607",
+        "change_percent": "0.14",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000172.js"
+      },
+      {
+        "code": "000173",
+        "name": "汇添富美丽30混合A",
+        "net_value": "4.2610",
+        "estimated_value": "4.3183",
+        "change_percent": "1.35",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000173.js"
+      },
+      {
+        "code": "000174",
+        "name": "汇添富高息债债券A",
+        "net_value": "1.8277",
+        "estimated_value": "1.8278",
+        "change_percent": "0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000174.js"
+      },
+      {
+        "code": "000176",
+        "name": "嘉实沪深300指数研究增强A",
+        "net_value": "1.8768",
+        "estimated_value": "1.8798",
+        "change_percent": "0.16",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000176.js"
+      },
+      {
+        "code": "000181",
+        "name": "景顺长城四季金利债券A",
+        "net_value": "1.2860",
+        "estimated_value": "1.2859",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000181.js"
+      },
+      {
+        "code": "000183",
+        "name": "嘉实丰益策略定期债券",
+        "net_value": "1.0148",
+        "estimated_value": "1.0157",
+        "change_percent": "0.09",
+        "net_value_date": "2026-06-12",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000183.js"
+      },
+      {
+        "code": "000184",
+        "name": "工银添福债券A",
+        "net_value": "2.1120",
+        "estimated_value": "2.1111",
+        "change_percent": "-0.04",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000184.js"
+      },
+      {
+        "code": "000185",
+        "name": "工银添福债券B",
+        "net_value": "2.0560",
+        "estimated_value": "2.0551",
+        "change_percent": "-0.04",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000185.js"
+      },
+      {
+        "code": "000186",
+        "name": "华泰柏瑞季季红债券A",
+        "net_value": "1.0756",
+        "estimated_value": "1.0754",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000186.js"
+      },
+      {
+        "code": "000187",
+        "name": "华泰柏瑞丰盛纯债债券A",
+        "net_value": "1.1800",
+        "estimated_value": "1.1798",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000187.js"
+      },
+      {
+        "code": "000189",
+        "name": "易方达丰华债券A",
+        "net_value": "1.4619",
+        "estimated_value": "1.4691",
+        "change_percent": "0.49",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000189.js"
+      },
+      {
+        "code": "000190",
+        "name": "中银新回报灵活配置混合A",
+        "net_value": "1.9016",
+        "estimated_value": "1.9014",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000190.js"
+      },
+      {
+        "code": "000191",
+        "name": "富国信用债债券A/B",
+        "net_value": "1.3528",
+        "estimated_value": "1.3526",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000191.js"
+      },
+      {
+        "code": "000194",
+        "name": "银华信用四季红债券A",
+        "net_value": "1.0926",
+        "estimated_value": "1.0924",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000194.js"
+      },
+      {
+        "code": "000195",
+        "name": "工银成长收益混合A",
+        "net_value": "1.7850",
+        "estimated_value": "1.7723",
+        "change_percent": "-0.71",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000195.js"
+      },
+      {
+        "code": "000196",
+        "name": "工银成长收益混合B",
+        "net_value": "1.6780",
+        "estimated_value": "1.6679",
+        "change_percent": "-0.60",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000196.js"
+      },
+      {
+        "code": "000197",
+        "name": "富国目标收益一年期纯债债券",
+        "net_value": "1.1213",
+        "estimated_value": "1.1211",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000197.js"
+      },
+      {
+        "code": "000199",
+        "name": "国泰量化策略收益混合A",
+        "net_value": "2.0350",
+        "estimated_value": "2.0531",
+        "change_percent": "0.89",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000199.js"
+      },
+      {
+        "code": "000200",
+        "name": "博时岁岁增利一年持有期债券A",
+        "net_value": "1.2712",
+        "estimated_value": "1.2710",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000200.js"
+      },
+      {
+        "code": "000201",
+        "name": "诺安泰鑫一年定期开放债券A",
+        "net_value": "1.0132",
+        "estimated_value": "1.0140",
+        "change_percent": "0.08",
+        "net_value_date": "2026-06-12",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000201.js"
+      },
+      {
+        "code": "000205",
+        "name": "易方达投资级信用债债券A",
+        "net_value": "1.1624",
+        "estimated_value": "1.1622",
+        "change_percent": "-0.01",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000205.js"
+      },
+      {
+        "code": "000207",
+        "name": "建信双债增强债券A",
+        "net_value": "1.2790",
+        "estimated_value": "1.2801",
+        "change_percent": "0.08",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000207.js"
+      },
+      {
+        "code": "000209",
+        "name": "中信保诚新兴产业混合A",
+        "net_value": "3.5944",
+        "estimated_value": "3.6402",
+        "change_percent": "1.27",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000209.js"
+      },
+      {
+        "code": "000212",
+        "name": "泰信鑫益定期开放A",
+        "net_value": "1.2852",
+        "estimated_value": "1.2862",
+        "change_percent": "0.08",
+        "net_value_date": "2026-06-12",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000212.js"
+      },
+      {
+        "code": "000214",
+        "name": "广发成长优选混合",
+        "net_value": "1.7520",
+        "estimated_value": "1.7530",
+        "change_percent": "0.06",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000214.js"
+      },
+      {
+        "code": "000215",
+        "name": "广发趋势优选灵活配置混合A",
+        "net_value": "1.7611",
+        "estimated_value": "1.7599",
+        "change_percent": "-0.07",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000215.js"
+      },
+      {
+        "code": "000219",
+        "name": "博时裕益混合A",
+        "net_value": "3.3234",
+        "estimated_value": "3.3215",
+        "change_percent": "-0.06",
+        "net_value_date": "2026-06-15",
+        "quote_time": "2026-06-16 11:29",
+        "source": "https://fundgz.1234567.com.cn/js/000219.js"
+      }
+    ],
+    "errors": []
   }
 ]
